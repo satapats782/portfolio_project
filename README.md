@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases professional experience, education, projects, and skills in an elegant and interactive design.
+A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my professional experience, education, projects, and skills in an elegant and interactive design.
 
 ## Features
 
