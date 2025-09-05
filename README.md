@@ -119,40 +119,6 @@ Modify the CSS variables in `styles.css`:
 2. Deploy with one click
 3. Get automatic deployments on updates
 
-## Customization Examples
-
-### Adding a New Project
-```html
-<div class="project-card">
-    <div class="project-image">
-        <i class="fas fa-code"></i>
-    </div>
-    <div class="project-content">
-        <h3>Your Project Name</h3>
-        <p>Project description goes here...</p>
-        <div class="project-tech">
-            <span class="tech-tag">React</span>
-            <span class="tech-tag">Node.js</span>
-        </div>
-        <div class="project-links">
-            <a href="#" class="project-link"><i class="fab fa-github"></i> Code</a>
-            <a href="#" class="project-link"><i class="fas fa-external-link-alt"></i> Live</a>
-        </div>
-    </div>
-</div>
-```
-
-### Adding a New Skill Category
-```html
-<div class="skill-category">
-    <h3>New Category</h3>
-    <div class="skill-items">
-        <span class="skill-item">Skill 1</span>
-        <span class="skill-item">Skill 2</span>
-        <span class="skill-item">Skill 3</span>
-    </div>
-</div>
-```
 
 ## Performance Tips
 
@@ -170,22 +136,3 @@ Modify the CSS variables in `styles.css`:
 - Alt text for images (add as needed)
 - Keyboard navigation support
 - High contrast color scheme
-
-## Support
-
-If you need help customizing your portfolio:
-
-1. Check the HTML structure for the section you want to modify
-2. Review the CSS classes and their properties
-3. Test changes in a browser's developer tools
-4. Ensure responsive design is maintained
-
-## License
-
-This portfolio template is free to use and modify for personal and commercial projects.
-
----
-
-**Happy coding! 🚀**
-
-Feel free to customize this portfolio to match your personal brand and showcase your unique skills and experience. 
